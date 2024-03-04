@@ -1,0 +1,2 @@
+#!/bin/bash
+systemd-run -G --user -p OOMPolicy=continue -p MemoryMax=2G /usr/bin/firefox
