@@ -14,7 +14,7 @@ Change your `MemoryMax=` value to desired RAM usage limit. (Exmaples: `MemoryMax
 
 
 >[!NOTE]
->This can be applied to other programs in linux. Essentially, just replace any line conercing firefox with the desired program when using this script. I only used Firefox in this script as it's a common resource hog on my smaller linux devices.
+>This can be applied to other programs in linux. Essentially, just replace any line concerning firefox with the desired program when using this script. I only used Firefox in this script as it's a common resource hog on my smaller linux devices.
 
 
 [^1]: https://bbs.archlinux.org/viewtopic.php?pid=2006208#p2006208
