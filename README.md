@@ -9,4 +9,5 @@ To install...
 
 Change your `MemoryMax=` value to desired RAM usage limit. (Exmaples: `MemoryMax=2G` for 2 Gigabytes, `MemoryMax=200M` for 200 Megabytes.)
 
-Note: This can be applied to other programs in linux. Essentially, just replace firefox with the desired program when using this script. Ionly used Firefox in this script as it's a common resource hog on my smaller linux devices.
+>[!NOTE]
+>This can be applied to other programs in linux. Essentially, just replace firefox with the desired program when using this script. I only used Firefox in this script as it's a common resource hog on my smaller linux devices.
