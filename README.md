@@ -14,4 +14,4 @@ Learned about through by latalante1p[^1]
 >[!NOTE]
 >This can be applied to other programs in linux. Essentially, just replace firefox with the desired program when using this script. I only used Firefox in this script as it's a common resource hog on my smaller linux devices.
 
-[^1]: Discovered from this form: https://bbs.archlinux.org/viewtopic.php?id=271719
+[^1]: https://bbs.archlinux.org/viewtopic.php?pid=2006208#p2006208
