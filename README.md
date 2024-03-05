@@ -7,7 +7,7 @@ Requires: systemd
 To install...
 1. Place firefox-limit-mem in desired directory (ex: /usr/bin)
 2. `chmod a+x` the script.
-3. Edit your desktop entry at `/usr/share/applications/firefox-esr.desktop` and change the `Exec=` destination to point to firefox-limit-mem.
+3. Edit your desktop entry at `/usr/share/applications/firefox-esr.desktop` and change the `Exec=` destination to point to `/file/path/firefox-limit-mem`.
 4. Restart Desktop Environment.
 
 Change your `MemoryMax=` value to desired RAM usage limit. (Exmaples: `MemoryMax=2G` for 2 Gigabytes, `MemoryMax=200M` for 200 Megabytes.)
