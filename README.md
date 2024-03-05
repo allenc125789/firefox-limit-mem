@@ -1,4 +1,4 @@
-> Credit: Learned about through user latalante1p[^1]
+> Credit: Learned method through user latalante1p[^1]
 
 # Instructions:
 
